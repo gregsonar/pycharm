@@ -4,7 +4,6 @@
     <extensionMap>
       <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="mckonews_bot.py" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="eml" type="PLAIN_TEXT" />
       <mapping ext="2" type="PLAIN_TEXT" />
     </extensionMap>
