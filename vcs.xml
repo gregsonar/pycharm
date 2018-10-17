@@ -10,8 +10,16 @@
           <option name="url" value="https://github.com/gregsonar/genetics-experiments.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Microsoft/botbuilder-python.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/microsoft/botbuilder-python" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\gia\PycharmProjects\Genetics-Experiments" />
+    <option name="cloneParentDir" value="C:\Users\dudnikov\PycharmProjects\MCKOSkypeBot" />
   </component>
 </application>
