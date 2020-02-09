@@ -1,0 +1,32 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <option name="data">
+      <map>
+        <entry key="EditorLeft">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581241494386" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="EditorRight">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581241495255" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Github.Share">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581241365850" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
